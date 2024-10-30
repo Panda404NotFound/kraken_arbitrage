@@ -27,17 +27,19 @@
 - Git
 
 ### Шаги установки
-1. Клонирование репозитория:
+1. Создайте .env в папке проекта. Добавьте необходимые конфигурации в .env из примера .env_example.txt файла.
+
+2. Клонирование репозитория:
 ```bash
 git clone [repository-url]
 ```
 
-2. Настройка прав и запуск скрипта:
+3. Настройка прав и запуск скрипта:
 ```bash
 cd kraken_cex && chmod +x key.sh && ./key.sh
 ```
 
-3. Сборка и запуск Docker-контейнера:
+4. Сборка и запуск Docker-контейнера:
 ```bash
 sudo docker build -t kraken . && sudo docker run -it -d --name kraken_cont --restart unless-stopped kraken
 ```
