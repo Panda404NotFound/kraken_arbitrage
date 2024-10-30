@@ -46,9 +46,7 @@ cd kraken_cex && chmod +x key.sh && ./key.sh
 sudo docker build -t kraken . && sudo docker run -it -d --name kraken_cont --restart unless-stopped kraken
 ```
 
-# Тестирование
-
-## Подготовка к тестированию
+## Тестирование
 
 Для проведения тестирования необходимо выполнить следующие шаги:
 
