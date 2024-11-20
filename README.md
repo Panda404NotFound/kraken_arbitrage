@@ -1,3 +1,24 @@
+[![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/hidden_coding)
+
+[![Static Badge](https://img.shields.io/badge/Telegram-Chat-yes?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/hidden_codding_chat)
+
+[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/PAWSOG_bot/PAWS?startapp=xDZm2M3t)
+
+# 🐾 AUTO FARM FOR PAWS 🐾
+
+> [!WARNING]
+> As a payment for this script I take a 20 - 30% of your referrals.
+
+> [!WARNING]
+> I am not responsible for your account. Please consider the potential risks before using this bot.
+
+## [HIDDEN CODE MARKET](https://t.me/hcmarket_bot?start=referral_355876562)
+
+#### - [Paws wallet connector](https://t.me/hcmarket_bot?start=referral_355876562-project_1016)
+#### - [Premium notpixel](https://t.me/hcmarket_bot?start=referral_355876562-project_1015)
+#### - [Blum wallet connector](https://t.me/hcmarket_bot?start=referral_355876562-project_1002)
+#### - [Telegram warning up](https://t.me/hcmarket_bot?start=referral_355876562-project_1001)
+
 # KRAKEN Мультивалютный арбитражный Бот
 
 ## Описание
