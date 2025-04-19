@@ -165,3 +165,8 @@ tokio::spawn(async move {
   [![Email](https://img.shields.io/badge/Email-synthstudioteam@gmail.com-ff0066?style=for-the-badge&logo=gmail)](mailto:synthstudioteam@gmail.com)
   
 </div>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer&text=CONNECTION%20TERMINATED&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70" width="100%"/>
+</div>
